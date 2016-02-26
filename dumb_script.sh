@@ -1,1 +1,1 @@
-echo "Just a Dumb Script"
+echo "This is not smart, its just a bit dumb!"
